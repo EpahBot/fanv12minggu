@@ -20,31 +20,31 @@ global.gopay = '0109102984'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'BebanBot天'
-global.gc = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
-global.web = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
+global.gc = 'https://chat.whatsapp.com/BL8CTzUqg9KFJ0Mu6GmUvs'
+global.web = 'wa.me/60109102984' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://chat.whatsapp.com/BL8CTzUqg9KFJ0Mu6GmUvs'
 global.price1 = '-'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://i.postimg.cc/tgw3XyXK/IMG-20220630-193744.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://i.postimg.cc/tgw3XyXK/IMG-20220630-193744.jpg' //ini juga ganti 
+global.fotonya1 = 'https://i.postimg.cc/wxFVcW1Q/hinata.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://i.postimg.cc/wxFVcW1Q/hinata.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '©BebanBot天春'
 global.watermark = wm
 global.wm2 = 'ᯤ Khairil春'
 global.wm3 = 'ᯤ Khairil春'
-global.htki = '––––––『' 
+global.htki = '------『' 
 global.htka = '』––––––'
-global.media = 'https://i.postimg.cc/tgw3XyXK/IMG-20220630-193744.jpg'
+global.media = 'https://i.postimg.cc/wxFVcW1Q/hinata.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '⏳Tunggu Sedang Proses...'
 global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Sticker By'
-global.author = 'FANDAH-BOT✵'
+global.packname = 'BebanBot天'
+global.author = '©Khairil春'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
