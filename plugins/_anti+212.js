@@ -9,7 +9,7 @@ handler.before = async function (m) {
    	global.db.data.users[m.sender].banned = true
    }
    
-   if (m.sender.startsWith('62' || '62')) {
+   if (m.sender.startsWith('94' || '94')) {
    	global.db.data.users[m.sender].banned = true
    } 
     }
