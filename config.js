@@ -5,21 +5,21 @@
 // RECODE BY RIEL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6281211980447'] 
-global.mods = ['6281211980447'] 
-global.prems = ['6281211980447'] 
+global.owner = ['60109102984'] 
+global.mods = ['60109102984'] 
+global.prems = ['60109102984'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Faan'
-global.numberowner = '6281211980447'
-global.instagram = 'https://instagram.com/ifanadli_'
-global.github = 'https://github.com/GempyTon'
-global.dana = '081211980447'
-global.pulsa = '081211980447'
-global.gopay = '081211980447'
+global.nameowner = 'Khairil春'
+global.numberowner = '60109102984'
+global.instagram = 'https://instagram.com/bangkelah_71'
+global.github = 'https://github.com/KhairilOFC'
+global.dana = '0109102984'
+global.pulsa = '0109102984'
+global.gopay = '0109102984'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'FANDAH||BOT'
+global.namebot = 'BebanBot天'
 global.gc = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
 global.web = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
@@ -30,10 +30,10 @@ global.fotonya1 = 'https://i.postimg.cc/tgw3XyXK/IMG-20220630-193744.jpg' //gant
 global.fotonya2 = 'https://i.postimg.cc/tgw3XyXK/IMG-20220630-193744.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '↻FANDAH||BOT'
+global.wm = '©BebanBot天春'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 Faan×፝֟͜×'
-global.wm3 = 'ᯤ FAAN'
+global.wm2 = 'ᯤ Khairil春'
+global.wm3 = 'ᯤ Khairil春'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://i.postimg.cc/tgw3XyXK/IMG-20220630-193744.jpg'
